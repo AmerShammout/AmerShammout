@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Always+learning+new+things;Reach out if you need help)](https://git.io/typing-svg)
 👨‍💻 As a ITE student, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with Flutter, C++, Java.<br>🔭 I’m currently working on Adaptive-Admin_Panel.<br>🌱 I’m currently learning Flutter<br>
 
 
