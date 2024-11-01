@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=482&lines=Flutter+Developer;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=482&lines=Flutter+Developer;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AD" alt="Typing SVG" align="center"/></a>
 
 👨‍💻 As a ITE student, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with Flutter, C++, Java.<br>🔭 I’m currently working on Adaptive-Admin_Panel.<br>🌱 I’m currently learning Flutter<br>
 
